@@ -14,16 +14,14 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
- <img width="100%" src="https://media.giphy.com/media/l46Cpz0A0dB1jMxG0/source.gif" />
+ <img height="180px" width="100%" src="https://media.giphy.com/media/l46Cpz0A0dB1jMxG0/source.gif" />
 </p>
 
-<samp>
+## Hi, I'm Vinicius Imai! 😄
 
-### Hi, I'm Vinicius Imai! 😄
-
-💻 Software Engineering at [@Sensedia] <br>
+💻 Software Engineering at [@Sensedia]
 :red_heart: Python
-🌱 Improving in:  ReactJS, Node, Typescript
+🌱 Improving in: ReactJS, Node, Typescript
 🏡 Brazilian. 
 
 ## Find me 🌎
@@ -31,8 +29,6 @@ Here are some ideas to get you started:
 🐦 https://twitter.com/ViniciusImai <br>
 💼 https://www.linkedin.com/in/vinicius-imai/ <br>
 
-## ⚡ Fun fact:
-I love 
 
 Great to see you here!🚀
-</samp>
+
