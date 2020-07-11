@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
- <img width="100%" src=" https://giphy.com/embed/XD9o33QG9BoMis7iM4" />
+<!--  <img width="100%" src=" https://giphy.com/embed/XD9o33QG9BoMis7iM4" /> -->
+ https://giphy.com/gifs/XD9o33QG9BoMis7iM4/html5
 </p>
 
 <samp>
 
 ### Hi, I'm Vinicius Imai! 😄
 
-💻 Software Engineering at [@sensedia] <br>
+💻 Software Engineering at [@Sensedia] <br>
 🏡 Brazilian. 
 
 ### Find me around the web 🌎
