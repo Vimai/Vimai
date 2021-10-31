@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 💼 https://www.linkedin.com/in/vinicius-imai/ <br>
 
 
-Great to see you here!🚀
+Great to see you here! 🚀
 
