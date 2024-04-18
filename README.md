@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 💻 Software Engineering at [@Sensedia] <br>
 ❤️ Python <br>
-🌱 Improving in: ReactJS, Typescript 🔥<br>
+🌱 Java
 🏡 Brazilian. <br>
 
 ## Find me 🌎
