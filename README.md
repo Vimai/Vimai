@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Vinicius Imai! 😄
 
-💻 Software Engineering at [@Sensedia] <br>
+💻 Software Engineering <br>
 ❤️ Python <br>
 🌱 Java
 🏡 Brazilian. <br>
