@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
- <img height="300px" width="75%" src="https://media.giphy.com/media/bcKmIWkUMCjVm/source.gif" />
-</p>
 
 ## Hi, I'm Vinicius Imai! 😄
 
