@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 🏡 Brazilian. <br>
 
 ## Find me 🌎
-
-🐦 https://twitter.com/ViniciusImai <br>
 💼 https://www.linkedin.com/in/vinicius-imai/ <br>
 
 
